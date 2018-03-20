@@ -1,5 +1,5 @@
 {
-    "name": "CarlAdermann/servicemanager",
+    "name": "carladermann/servicemanager",
     "description": "Service api wrapper",
     "require": {
         "carsguide/auth-manager": "^1.0"
